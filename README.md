@@ -1,34 +1,38 @@
 
-<!-- ===================================================== -->
-<!--                  SAYAN SARKAR                         -->
-<!--             PREMIUM GITHUB PROFILE                    -->
-<!-- ===================================================== -->
+<!-- ========================================================= -->
+<!--                 SAYAN SARKAR | GITHUB PROFILE              -->
+<!--                    PREMIUM EDITION                         -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:4776E6&height=220&section=header&text=SAYAN%20SARKAR&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Creative%20Builder&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:4776E6&height=230&section=header&text=SAYAN%20SARKAR&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20AI%20ENTHUSIAST%20%7C%20FULL%20STACK%20DEVELOPER&descSize=14&descAlignY=60&animation=fadeIn" width="100%"/>
 
 # Hi 👋, I'm Sayan Sarkar
 
-### 🚀 B.Tech CSE Student | Aspiring Software Engineer
+### 🚀 B.Tech Computer Science & Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Applications;Full-Stack+Web+Developer;Exploring+Generative+AI+%26+Multi-Agent+Systems;Turning+Ideas+Into+Real-World+Products;Build.+Learn.+Solve.+Repeat." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Java+%26+Full+Stack+Developer;AI+%2F+ML+Enthusiast;Exploring+Generative+AI+%26+Multi-Agent+Systems;Building+Intelligent+Real-World+Applications;Turning+Ideas+Into+Technology;Build.+Learn.+Innovate.+Repeat." alt="Typing SVG"/>
 
 <br/>
 
 <a href="https://sayan-sarkar-portfolio-alpha.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_MY_PORTFOLIO-Visit_Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
 <a href="https://linkedin.com/in/sayan-sarkar-770a432b4">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:sayansarkar3504@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sayansarkar3504-cmd&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=sayansarkar3504-cmd&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views"/>
+
+<img src="https://img.shields.io/github/followers/sayansarkar3504-cmd?label=Followers&style=for-the-badge&color=0A66C2" alt="Followers"/>
 
 </div>
 
@@ -36,130 +40,199 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science and Engineering student passionate about building meaningful software, intelligent systems, and modern digital experiences.
+I'm a B.Tech Computer Science and Engineering student passionate about building intelligent software, modern applications and technology-driven solutions.
 
-I enjoy working at the intersection of software engineering and artificial intelligence.
+I enjoy exploring different areas of computer science, from backend engineering and database management to Artificial Intelligence and Generative AI.
+
+### 💡 My Interests
 
 - 💻 Full-Stack Web Development
+- ☕ Java & Object-Oriented Programming
 - 🤖 Artificial Intelligence & Machine Learning
 - 🧠 Generative AI & Multi-Agent Systems
-- ⚡ Data Structures, Algorithms & Problem Solving
-- ☁️ Cloud Computing & Modern Software Architecture
-- 🚀 Building practical, real-world applications
+- ⚡ Data Structures & Algorithms
+- 🗄️ Database Management & Backend Development
+- ☁️ Cloud Computing & Software Architecture
 
-I believe in learning by building, experimenting with new technologies, and turning complex ideas into useful products.
+I love transforming ideas into functional products, participating in hackathons, experimenting with emerging technologies and continuously improving my engineering skills.
 
-**My philosophy: Build. Learn. Solve. Repeat.**
+> "Don't just learn technology. Build something meaningful with it."
+
+**Build. Learn. Solve. Repeat. 🚀**
 
 ---
 
-## 🚀 What I'm Building
+## 🔭 What I'm Currently Building
 
 ### 🤖 EcoChain-AI
+
 **Multi-Agent AI for Sustainable Supply Chain Management**
 
 <a href="https://github.com/sayansarkar3504-cmd/EcoChain-AI">
-  <img src="https://img.shields.io/badge/Explore_Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/EXPLORE_ECOCHAIN_AI-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-An intelligent multi-agent AI system designed to automate sustainable supply chain management and vendor compliance analysis.
+An intelligent multi-agent AI system focused on sustainable supply chain management and vendor compliance analysis.
 
-**Key capabilities:**
-- AI-powered invoice analysis.
-- Vendor risk evaluation.
-- Sensitive data protection.
-- Automated compliance analysis.
-- Business insights for sustainable decisions.
+**Core Capabilities**
 
-**Technologies:** Python • Google ADK • MCP Server • Gemini • Security Guardrails
+- AI-powered invoice analysis
+- Vendor risk evaluation
+- Automated compliance analysis
+- Sensitive data protection
+- Intelligent business insights
+- Multi-agent workflows
+
+**Technologies:** Python • Google ADK • MCP Server • Gemini AI • Security Guardrails
 
 ---
 
 ## 🌟 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🤖 01. EcoChain-AI
 
-### 🤖 EcoChain-AI
+**Multi-Agent AI for Sustainable Supply Chain Management**
 
-Multi-agent AI system for sustainable supply chain management and vendor compliance analysis.
+An AI-powered system designed to automate vendor evaluation, invoice analysis and sustainable supply chain compliance.
+
+**Highlights**
+- Multi-Agent AI architecture
+- Intelligent document analysis
+- Vendor risk assessment
+- Automated compliance workflows
 
 **Tech Stack**
-- Python
-- Google ADK
-- MCP Server
-- Gemini
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+
+<img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP_Server-202020?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square"/>
 
 <a href="https://github.com/sayansarkar3504-cmd/EcoChain-AI">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🤟 SIGNOVA
-
-Indian Sign Language-based inclusive smart education system.
-
-Bridges communication gaps between teachers and deaf/hard-of-hearing students using speech, text and ISL.
-
-**Tech Stack**
-- React & Vite
-- Tailwind CSS
-- Python & FastAPI
-- Web Speech API
-
-<a href="https://github.com/sayansarkar3504-cmd/smart-India-hackathon-project-SIGNOVA-">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Personal Portfolio
-
-A modern, responsive developer portfolio showcasing my skills, projects, education and experience with interactive animations.
-
-**Tech Stack**
-- React
-- TypeScript
-- Modern Web Technologies
-
-<a href="https://github.com/sayansarkar3504-cmd/my-portfolio">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/>
-
-<a href="https://sayan-sarkar-portfolio-alpha.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🏦 Online Banking Management System
-
-Backend-focused banking management application developed during my internship at ARDENT COMPUTECH PVT LTD.
-
-**Tech Stack**
-- Python
-- Django
-- SQL
-- Backend Development
-
-Focused on database management, backend architecture and practical software development.
-
-</td>
-</tr>
-</table>
 
 ---
 
-## 🛠️ Tech Stack & Technologies
+### 🤟 02. SIGNOVA
+
+**Indian Sign Language-Based Inclusive Smart Education System**
+
+An inclusive educational platform developed as an SIH 2026 project to bridge the communication gap between teachers and deaf/hard-of-hearing students.
+
+**Core Features**
+- Speech-to-text communication
+- Text-to-ISL gloss conversion
+- Sign card-based learning
+- Accessible educational interaction
+- Inclusive communication support
+
+**Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,python,fastapi&theme=dark"/>
+
+<img src="https://img.shields.io/badge/Web_Speech_API-4285F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Indian_Sign_Language-16A34A?style=flat-square"/>
+
+<a href="https://github.com/sayansarkar3504-cmd/smart-India-hackathon-project-SIGNOVA-">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+### 🎓 03. Student Record Management System
+
+**Java Swing & MySQL-Based Desktop Application**
+
+A feature-rich desktop application developed for academic administration using Java 21, Swing, JDBC and MySQL.
+
+**✨ Key Features**
+
+- Automatic MySQL database creation
+- Automatic table and index initialization
+- Complete Student CRUD Operations
+- Advanced Search & Filtering
+- Interactive Table Sorting
+- Administrator Authentication
+- Real-Time Dashboard Analytics
+- Modern FlatLaf GUI
+- Database Connection Diagnostics
+- Input Validation & Data Integrity
+
+**🏗️ Software Architecture**
+
+Layered architecture with separate UI, Service, DAO, Model, Database and Utility layers.
+
+**🛠️ Technology Stack**
+
+<img src="https://skillicons.dev/icons?i=java,mysql,maven&theme=dark"/>
+
+<img src="https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk"/>
+<img src="https://img.shields.io/badge/Java_Swing-GUI-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/FlatLaf-Modern_UI-0A9396?style=flat-square"/>
+<img src="https://img.shields.io/badge/JDBC-Database_Connectivity-4479A1?style=flat-square"/>
+<img src="https://img.shields.io/badge/JUnit_5-Testing-25A162?style=flat-square"/>
+
+**🧪 Reported Testing Results**
+
+| Testing | Result |
+|---|---:|
+| Unit Tests | 29/29 Passed |
+| Integration Tests | 9/9 Passed |
+| Total Tests | 38/38 Passed |
+
+<a href="https://github.com/sayansarkar3504-cmd/Student-Record-Management-System">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+### 🌐 04. Personal Portfolio Website
+
+**My Digital Developer Identity**
+
+A modern portfolio website showcasing my technical skills, development journey, projects and professional profile.
+
+**Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=react,typescript,html,css,vercel&theme=dark"/>
+
+<a href="https://sayan-sarkar3504-cmd.github.io/my-portfolio">
+</a>
+
+<a href="https://github.com/sayansarkar3504-cmd/my-portfolio">
+<img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://sayan-sarkar-portfolio-alpha.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+---
+
+### 🏦 05. Online Banking Management System
+
+**Python & Django-Based Banking Application**
+
+Developed during my internship at ARDENT COMPUTECH PVT LTD.
+
+A backend-focused banking management application built to gain practical experience with database management, backend architecture and real-world software development.
+
+**Technologies**
+
+<img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite&theme=dark"/>
+
+**Key Learning Areas**
+- Backend Development
+- Database Management
+- Application Architecture
+- Software Debugging
+- Practical Development Workflows
+
+---
+
+## 🛠️ Technical Skills & Technologies
 
 ### 💻 Programming Languages
 
@@ -185,26 +258,27 @@ Focused on database management, backend architecture and practical software deve
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,oracle&theme=dark"/>
 </p>
 
-### 🤖 AI / Machine Learning
+### 🤖 AI & Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,opencv,pytorch,tensorflow&theme=dark"/>
 </p>
 
-### ☁️ Cloud, DevOps & Developer Tools
+### ☁️ Cloud & Developer Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,linux,aws,gcp,docker,postman,vscode&theme=dark"/>
 </p>
 
-### 🧠 AI Ecosystem
+### 🧠 Other Technologies
 
 <p>
-<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Multi--Agent_Systems-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MCP_Server-222222?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java_Swing-Desktop_Development-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JDBC-Database_Connectivity-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Maven-Build_Tool-C71A36?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FlatLaf-GUI_Styling-0A9396?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google_ADK-Agent_Development-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-222222?style=for-the-badge"/>
 </p>
 
 ---
@@ -213,20 +287,23 @@ Focused on database management, backend architecture and practical software deve
 
 <div align="center">
 
-| Area | Focus |
+| Technology | Learning Focus |
 |:---|:---|
-| 🤖 Generative AI | LLMs, AI Applications |
-| 🧠 Multi-Agent AI | Agentic Workflows, MCP |
-| 📊 Machine Learning | Practical ML Applications |
-| 🌐 Advanced Frontend | React, Next.js, TypeScript |
-| 🏗️ System Design | Scalable Software Architecture |
-| ☁️ Cloud Computing | AWS, GCP, Deployment |
+| 🤖 Generative AI | LLMs & AI Applications |
+| 🧠 Agentic AI | Multi-Agent Systems & MCP |
+| 📊 Machine Learning | Intelligent Applications |
+| 🌐 Advanced React | Next.js & TypeScript |
+| 🏗️ System Design | Scalable Architecture |
+| ☁️ Cloud Computing | AWS & Google Cloud |
+| ⚡ DSA | Problem Solving & Algorithms |
 
 </div>
 
 ---
 
-## 🏆 Achievements & Highlights
+## 🏆 Achievements & Recognition
+
+<div align="center">
 
 <table>
 <tr>
@@ -245,7 +322,7 @@ Competitive Programming / Coding Competition
 
 **SIGNOVA**
 
-Developing an inclusive smart education solution using Indian Sign Language AI.
+Inclusive Smart Education System
 
 </td>
 </tr>
@@ -260,6 +337,8 @@ Recognized in multiple school-level quiz competitions, developing logical reason
 </tr>
 </table>
 
+</div>
+
 ---
 
 ## 💼 Internship Experience
@@ -272,13 +351,14 @@ Recognized in multiple school-level quiz competitions, developing logical reason
 
 **Technologies:** Python • Django • SQL
 
-During my internship, I gained practical experience in:
+**Experience & Responsibilities**
 
-- Backend application development.
-- Database design and management.
-- Software debugging and problem solving.
-- Building real-world application features.
-- Team collaboration and development practices.
+- Worked on backend application development.
+- Gained practical database management experience.
+- Explored backend architecture and application workflows.
+- Practiced debugging and problem-solving techniques.
+- Learned real-world software development practices.
+- Developed collaboration and technical communication skills.
 
 ---
 
@@ -286,13 +366,13 @@ During my internship, I gained practical experience in:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sayansarkar3504-cmd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sayansarkar3504-cmd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayansarkar3504-cmd&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayansarkar3504-cmd&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sayansarkar3504-cmd&theme=tokyonight&hide_border=true" />
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=sayansarkar3504-cmd&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -313,6 +393,16 @@ During my internship, I gained practical experience in:
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayansarkar3504-cmd&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sayansarkar3504-cmd/sayansarkar3504-cmd/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
 
 </div>
 
@@ -345,7 +435,7 @@ During my internship, I gained practical experience in:
 <br/><br/>
 
 <a href="https://sayan-sarkar-portfolio-alpha.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_EXPLORE_MY_PORTFOLIO-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_VISIT_MY_PORTFOLIO-2563EB?style=for-the-badge"/>
 </a>
 
 <a href="https://sayan-sarkar-portfolio-alpha.vercel.app/resume.pdf">
@@ -358,13 +448,15 @@ During my internship, I gained practical experience in:
 
 ## 🎯 What's Next?
 
-- [ ] Build impactful full-stack applications.
-- [ ] Explore advanced Generative AI and Agentic AI.
-- [ ] Develop practical Machine Learning projects.
+- [ ] Build impactful Full-Stack applications.
+- [ ] Develop more advanced Java applications.
+- [ ] Explore Generative AI and Agentic AI.
+- [ ] Build practical Machine Learning projects.
 - [ ] Improve Data Structures & Algorithms.
-- [ ] Master System Design fundamentals.
-- [ ] Explore Cloud Computing and scalable architecture.
+- [ ] Learn System Design fundamentals.
+- [ ] Explore Cloud Computing.
 - [ ] Contribute to Open Source.
+- [ ] Build production-ready software.
 
 ---
 
@@ -374,9 +466,13 @@ During my internship, I gained practical experience in:
 
 ### "Don't just learn technology. Build something meaningful with it."
 
-I believe great developers are made through curiosity, consistency, experimentation and problem solving.
+I believe the best way to become a better developer is through curiosity, consistency, experimentation and problem-solving.
 
-**Build → Break → Debug → Improve → Repeat.**
+**BUILD → BREAK → DEBUG → IMPROVE → REPEAT**
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Dream+Big.+Code+Smart.;Stay+Curious.+Keep+Building.;Innovation+Starts+With+An+Idea.;The+Best+Is+Yet+To+Come." alt="Developer Philosophy"/>
 
 </div>
 
@@ -384,14 +480,12 @@ I believe great developers are made through curiosity, consistency, experimentat
 
 <div align="center">
 
-### 🤝 Let's Build Something Amazing Together!
+### ⭐ Thanks for Visiting My GitHub Profile!
 
-I'm always excited to connect with developers, collaborate on interesting projects, explore new technologies and turn innovative ideas into reality.
+**Let's connect, collaborate and build something amazing together.**
 
-<br/>
-
-**Thanks for visiting my GitHub profile! ⭐**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,50:243B55,100:141E30&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,50:203A43,100:0F2027&height=150&section=footer&animation=twinkling" width="100%"/>
 
 </div>
+
+<!-- END OF README -->
