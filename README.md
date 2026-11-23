@@ -6,9 +6,13 @@
 
 <div align="center">
 
-<img src="./sayan-sarkar-banner.png"
-     alt="Sayan Sarkar - Developer Banner"
-     width="100%"/>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/sayansarkar3504-cmd/sayansarkar3504-cmd/main/sayan-sarkar-banner.png"
+    width="100%"
+    alt="SAYAN SARKAR"
+  />
+</p>
 
 # Hi 👋, I'm Sayan Sarkar
 
