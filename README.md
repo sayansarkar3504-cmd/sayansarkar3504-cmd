@@ -12,7 +12,7 @@
 
 ### 🚀 B.Tech Computer Science & Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Java+%26+Full+Stack+Developer;AI+%2F+ML+Enthusiast;Exploring+Generative+AI+%26+Multi-Agent+Systems;Building+Intelligent+Real-World+Applications;Turning+Ideas+Into+Technology;Build.+Learn.+Innovate.+Repeat." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=MERN+%26+Full+Stack+Developer;AI+%2F+ML+Enthusiast;Exploring+Generative+AI+%26+Multi-Agent+Systems;Building+Intelligent+Real-World+Applications;Turning+Ideas+Into+Technology;Build.+Learn.+Innovate.+Repeat." alt="Typing SVG"/>
 
 <br/>
 
@@ -46,10 +46,10 @@ I enjoy exploring different areas of computer science, from backend engineering 
 
 ### 💡 My Interests
 
-- 💻 Full-Stack Web Development
+- 💻 Full-Stack Web Development(MERN)
 - ☕ Java & Object-Oriented Programming
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Generative AI & Multi-Agent Systems
+- 🤖 Artificial Intelligence & Machine Learning using Python
+- 🧠 Generative AI & Multi-Agent Systems(Python)
 - ⚡ Data Structures & Algorithms
 - 🗄️ Database Management & Backend Development
 - ☁️ Cloud Computing & Software Architecture
