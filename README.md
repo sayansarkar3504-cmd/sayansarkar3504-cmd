@@ -362,17 +362,87 @@ Recognized in multiple school-level quiz competitions, developing logical reason
 
 ---
 
-## 📊 GitHub Statistics
+
+<!-- ===================================================== -->
+<!--              GITHUB ANALYTICS DASHBOARD               -->
+<!-- ===================================================== -->
+
+## 📊 GitHub Statistics & Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sayansarkar3504-cmd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sayansarkar3504-cmd&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=Sayan's%20GitHub%20Statistics" width="49%" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayansarkar3504-cmd&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayansarkar3504-cmd&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Programming%20Languages" width="49%" />
 
 <br/><br/>
 
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=sayansarkar3504-cmd&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sayansarkar3504-cmd&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="80%" />
+
+</div>
+
+---
+
+## ☕ My Programming Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayansarkar3504-cmd&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&card_width=850" width="90%"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+</div>
+
+---
+
+## ⭐ Featured Repository Statistics
+
+<div align="center">
+
+### 🤖 EcoChain-AI
+
+<a href="https://github.com/sayansarkar3504-cmd/EcoChain-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sayansarkar3504-cmd&repo=EcoChain-AI&theme=tokyonight&hide_border=true" width="48%"/>
+</a>
+
+### 🤟 SIGNOVA
+
+<a href="https://github.com/sayansarkar3504-cmd/smart-India-hackathon-project-SIGNOVA-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sayansarkar3504-cmd&repo=smart-India-hackathon-project-SIGNOVA-&theme=tokyonight&hide_border=true" width="48%"/>
+</a>
+
+### 🎓 Student Record Management System
+
+<a href="https://github.com/sayansarkar3504-cmd/Student-Record-Management-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sayansarkar3504-cmd&repo=Student-Record-Management-System&theme=tokyonight&hide_border=true" width="48%"/>
+</a>
+
+### 🌐 Personal Portfolio
+
+<a href="https://github.com/sayansarkar3504-cmd/my-portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sayansarkar3504-cmd&repo=my-portfolio&theme=tokyonight&hide_border=true" width="48%"/>
+</a>
+
+</div>
+
+---
+
+## 🌟 Live Repository Stars & Forks
+
+<div align="center">
+
+| Repository | ⭐ Stars | 🍴 Forks |
+|:---|:---:|:---:|
+| [EcoChain-AI](https://github.com/sayansarkar3504-cmd/EcoChain-AI) | ![Stars](https://img.shields.io/github/stars/sayansarkar3504-cmd/EcoChain-AI?style=flat-square&color=yellow) | ![Forks](https://img.shields.io/github/forks/sayansarkar3504-cmd/EcoChain-AI?style=flat-square) |
+| [SIGNOVA](https://github.com/sayansarkar3504-cmd/smart-India-hackathon-project-SIGNOVA-) | ![Stars](https://img.shields.io/github/stars/sayansarkar3504-cmd/smart-India-hackathon-project-SIGNOVA-?style=flat-square&color=yellow) | ![Forks](https://img.shields.io/github/forks/sayansarkar3504-cmd/smart-India-hackathon-project-SIGNOVA-?style=flat-square) |
+| [Student Record Management](https://github.com/sayansarkar3504-cmd/Student-Record-Management-System) | ![Stars](https://img.shields.io/github/stars/sayansarkar3504-cmd/Student-Record-Management-System?style=flat-square&color=yellow) | ![Forks](https://img.shields.io/github/forks/sayansarkar3504-cmd/Student-Record-Management-System?style=flat-square) |
+| [Personal Portfolio](https://github.com/sayansarkar3504-cmd/my-portfolio) | ![Stars](https://img.shields.io/github/stars/sayansarkar3504-cmd/my-portfolio?style=flat-square&color=yellow) | ![Forks](https://img.shields.io/github/forks/sayansarkar3504-cmd/my-portfolio?style=flat-square) |
 
 </div>
 
@@ -382,31 +452,40 @@ Recognized in multiple school-level quiz competitions, developing logical reason
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sayansarkar3504-cmd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sayansarkar3504-cmd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" width="100%"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayansarkar3504-cmd&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayansarkar3504-cmd&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&area_color=353b6e&hide_border=true&custom_title=Sayan's%20Contribution%20Activity" width="100%"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 GitHub Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sayansarkar3504-cmd/sayansarkar3504-cmd/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
+<img src="https://raw.githubusercontent.com/sayansarkar3504-cmd/sayansarkar3504-cmd/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 
 </div>
 
 ---
+
+<div align="center">
+
+### 🚀 Keep Coding. Keep Growing.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Every+Commit+Counts.;Every+Project+Teaches+Something.;Consistency+Creates+Great+Developers." />
+
+</div>
+
 
 ## 🌐 Connect With Me
 
