@@ -6,7 +6,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:4776E6&height=230&section=header&text=SAYAN%20SARKAR&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20AI%20ENTHUSIAST%20%7C%20FULL%20STACK%20DEVELOPER&descSize=14&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="./sayan-sarkar-banner.png"
+     alt="Sayan Sarkar - Developer Banner"
+     width="100%"/>
 
 # Hi 👋, I'm Sayan Sarkar
 
